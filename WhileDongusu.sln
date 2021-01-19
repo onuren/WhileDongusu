@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDongusu", "donguler\WhileDongusu.csproj", "{1C54EB61-B818-4738-92AA-69BDE7CA3D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C54EB61-B818-4738-92AA-69BDE7CA3D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C54EB61-B818-4738-92AA-69BDE7CA3D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C54EB61-B818-4738-92AA-69BDE7CA3D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C54EB61-B818-4738-92AA-69BDE7CA3D22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2789A384-2272-45C2-8403-32FB09B5519B}
+	EndGlobalSection
+EndGlobal
